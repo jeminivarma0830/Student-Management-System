@@ -17,7 +17,6 @@ Marks Management
 
 Search Student Details
 
-
 Admin Dashboard
 
 
