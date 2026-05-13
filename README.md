@@ -12,7 +12,6 @@ Add / Edit / Delete Student Records
 
 Attendance Management
 
-
 Marks Management
 
 
