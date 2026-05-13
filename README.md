@@ -35,6 +35,7 @@ Database: MySQL
 
 
 **Folder Structure**
+
 student-management-system/│── frontend/│── backend/│── database/│── assets/│── README.md
 Installation
 
