@@ -7,7 +7,6 @@ Features
 
 Student Registration
 
-
 Add / Edit / Delete Student Records
 
 
