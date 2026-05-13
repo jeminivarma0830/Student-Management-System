@@ -1,6 +1,6 @@
-Student Management System
+**Student Management System**
 
-Overview
+**Overview**
 Student Management System is a web-based application used to manage student records efficiently. It helps in storing, updating, and managing student information digitally.
 Features
 
@@ -19,12 +19,10 @@ Search Student Details
 
 Admin Dashboard
 
-
 Secure Login System
 
 
-Technologies Used
-
+**Technologies Used**
 
 Frontend: HTML, CSS, JavaScript
 
@@ -35,39 +33,36 @@ Backend: Python Flask / Node.js
 Database: MySQL
 
 
-Folder Structure
+**Folder Structure**
 student-management-system/│── frontend/│── backend/│── database/│── assets/│── README.md
 Installation
 
 
-Clone the repository
-
+**Clone the repository**
 
 Install required dependencies
-
 
 Configure database
 
 
-Run the server
-
+**Run the server**
 
 Open the project in browser
 
 
-Future Enhancements
-
+**Future Enhancements**
 
 AI-based student analytics
 
-
 Email notifications
-
 
 Online result system
 
-
 Mobile responsive design
+
+**Athor**
+
+**Jemini Verma**
 
 
 Purpose
